@@ -1,0 +1,15 @@
+fastapi
+faiss-cpu
+# faiss-gpu
+google-api-python-client
+google-auth
+langchain-community
+langchain-core
+langchain-huggingface
+langchain-openai
+openai
+PyPDF2
+python-dotenv
+sentence-transformers
+streamlit
+# torch

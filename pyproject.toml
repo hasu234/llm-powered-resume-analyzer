@@ -1,0 +1,21 @@
+[project]
+name = "sol-resume-chat"
+version = "0.0.1"
+readme = "README.md"
+requires-python = ">=3.11, <3.13"
+dependencies = [
+    "faiss-cpu",
+    "fastapi",
+    "google-api-python-client",
+    "google-auth",
+    "langchain-community",
+    "langchain-core",
+    "langchain-huggingface",
+    "langchain-openai",
+    "openai",
+    "PyPDF2",
+    "python-dotenv",
+    "sentence-transformers",
+    "streamlit",
+    "torch",
+]
