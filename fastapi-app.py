@@ -366,7 +366,6 @@ with st.sidebar:
 
   st.divider()
   st.markdown(about_message)
-  st.markdown("Made by [Silicon Orchard Ltd](https://www.siliconorchard.com)")
 
 
 for message in st.session_state.chat_history:

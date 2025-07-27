@@ -198,7 +198,7 @@ We welcome contributions! Please follow these steps:
 
 ## 📄 License
 
-This project is developed by [Silicon Orchard Ltd](https://www.siliconorchard.com).
+This project is open source and available under the MIT License.
 
 ## 🆘 Support
 
